@@ -32,6 +32,7 @@
     ],
     
     "Data":[
-        {"id":1,"name":"shankar"}
+        {"id":1,"name":"shankar","email":"sk6201184579@gmail.com","password":"12345"},
+        {"id":2,"name":"Prabhat","email":"ppreedam@gmail.com","password":"123456789"}
     ]
 }
